@@ -1,2 +1,2 @@
 # Gamer-bot
-Uses selenium nad python to play cookie clicker independently.
+Program which uses selenium and python to play cookie clicker by itself.
